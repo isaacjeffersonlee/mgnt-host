@@ -1,0 +1,7 @@
+rich
+requests
+pandas
+aiohttp
+asyncio
+pyarrow
+fastparquet
